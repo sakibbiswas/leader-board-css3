@@ -25,7 +25,11 @@ hr {
     border: 1px solid #D1D1D1;
     margin-bottom: 27px;
 }
-
+nav{
+    background-color: #562EFF;
+    width: 100%;
+    height: 50px;
+}
 /* Top players styles */
 .top-players {
     margin-bottom: 30px;
